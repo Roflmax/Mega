@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  fastapi-service:
+    build: .
+    container_name: fastapi-baseline
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    environment:
+      - TZ=UTC
+    volumes:
+      - ./logs:/app/logs
+      - .:/app  # Монтируем текущую директорию в /app внутри контейнера
+    command: sh -c "uvicorn main:app --host 0.0.0.0 --port 8080 --reload"

@@ -1,0 +1,1442 @@
+2025-01-31 12:56:32 | INFO | Incoming request: POST http://localhost:8080/api/request
+Request body: {
+  "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+  "id": 1
+}
+2025-01-31 12:56:32 | INFO | Processing prediction request with id: 1
+2025-01-31 12:56:32 | INFO | Successfully processed request 1
+2025-01-31 12:56:32 | INFO | Request completed: POST http://localhost:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":1,"reasoning":"Из информации на сайте","sources":["https://itmo.ru/ru/","https://abit.itmo.ru/"]}
+Duration: 0.007s
+2025-01-31 12:56:39 | INFO | Incoming request: GET http://localhost:8080/
+Request body: 
+2025-01-31 12:56:39 | INFO | Request completed: GET http://localhost:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-31 12:56:58 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 12:56:58 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-31 12:57:06 | INFO | Incoming request: POST http://localhost:8080/api/request
+Request body: {
+  "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+  "id": 1
+}
+2025-01-31 12:57:06 | INFO | Processing prediction request with id: 1
+2025-01-31 12:57:06 | INFO | Successfully processed request 1
+2025-01-31 12:57:06 | INFO | Request completed: POST http://localhost:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":1,"reasoning":"Из информации на сайте","sources":["https://itmo.ru/ru/","https://abit.itmo.ru/"]}
+Duration: 0.003s
+2025-01-31 13:07:09 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 13:07:09 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 13:08:14 | INFO | Incoming request: GET http://158.160.63.21:8080/favicon.ico
+Request body: 
+2025-01-31 13:08:14 | INFO | Request completed: GET http://158.160.63.21:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 13:08:40 | INFO | Incoming request: GET http://api.ipify.orghttp://api.ipify.org/?format=json
+Request body: 
+2025-01-31 13:08:40 | INFO | Request completed: GET http://api.ipify.orghttp://api.ipify.org/?format=json
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 13:09:04 | INFO | Incoming request: CONNECT http://www.shadowserver.orgwww.shadowserver.org:443
+Request body: 
+2025-01-31 13:09:04 | INFO | Request completed: CONNECT http://www.shadowserver.orgwww.shadowserver.org:443
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 13:09:34 | INFO | Incoming request: GET http://158.160.63.21:8080/geoserver/web/
+Request body: 
+2025-01-31 13:09:34 | INFO | Request completed: GET http://158.160.63.21:8080/geoserver/web/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 13:19:52 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 13:19:52 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 13:19:52 | INFO | Incoming request: PRI http://172.18.0.2:8080*
+Request body: 
+2025-01-31 13:19:52 | INFO | Request completed: PRI http://172.18.0.2:8080*
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 14:02:57 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 14:02:57 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 14:27:16 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 14:27:16 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 14:48:40 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 14:48:40 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 15:00:15 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 15:00:15 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 15:00:15 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 15:00:15 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 15:32:41 | INFO | Incoming request: POST http://localhost:8080/api/request
+Request body: {
+  "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+  "id": 1
+}
+2025-01-31 15:32:41 | INFO | Processing prediction request with id: 1
+2025-01-31 15:32:41 | INFO | Successfully processed request 1
+2025-01-31 15:32:41 | INFO | Request completed: POST http://localhost:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":1,"reasoning":"Из информации на сайте","sources":["https://itmo.ru/ru/","https://abit.itmo.ru/"]}
+Duration: 0.004s
+2025-01-31 16:37:11 | INFO | Incoming request: GET http:///
+Request body: 
+2025-01-31 16:37:11 | INFO | Request completed: GET http:///
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.003s
+2025-01-31 16:37:12 | INFO | Incoming request: GET http://158.160.63.21/
+Request body: 
+2025-01-31 16:37:12 | INFO | Request completed: GET http://158.160.63.21/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-31 16:37:12 | INFO | Incoming request: GET http://158.160.63.21:8080/cgi-bin/../../../../../../../../../etc/hosts
+Request body: 
+2025-01-31 16:37:12 | INFO | Request completed: GET http://158.160.63.21:8080/cgi-bin/../../../../../../../../../etc/hosts
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:12 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 16:37:12 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:12 | INFO | Incoming request: GET http://158.160.63.21:8080/.DS_Store
+Request body: 
+2025-01-31 16:37:12 | INFO | Request completed: GET http://158.160.63.21:8080/.DS_Store
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:13 | INFO | Incoming request: GET http://158.160.63.21:8080/server-status
+Request body: 
+2025-01-31 16:37:13 | INFO | Request completed: GET http://158.160.63.21:8080/server-status
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:13 | INFO | Incoming request: GET http://158.160.63.21:8080/.env
+Request body: 
+2025-01-31 16:37:13 | INFO | Request completed: GET http://158.160.63.21:8080/.env
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:14 | INFO | Incoming request: GET http://158.160.63.21:8080/idx_config/
+Request body: 
+2025-01-31 16:37:14 | INFO | Request completed: GET http://158.160.63.21:8080/idx_config/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:14 | INFO | Incoming request: GET http://158.160.63.21:8080/telescope/requests
+Request body: 
+2025-01-31 16:37:14 | INFO | Request completed: GET http://158.160.63.21:8080/telescope/requests
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:14 | INFO | Incoming request: GET http://158.160.63.21:8080/info.php
+Request body: 
+2025-01-31 16:37:14 | INFO | Request completed: GET http://158.160.63.21:8080/info.php
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:15 | INFO | Incoming request: GET http://158.160.63.21:8080/api/geojson?url=file:///etc/hosts
+Request body: 
+2025-01-31 16:37:15 | INFO | Request completed: GET http://158.160.63.21:8080/api/geojson?url=file:///etc/hosts
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:15 | INFO | Incoming request: GET http://158.160.63.21:8080/config.json
+Request body: 
+2025-01-31 16:37:15 | INFO | Request completed: GET http://158.160.63.21:8080/config.json
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:15 | INFO | Incoming request: GET http://158.160.63.21:8080/.git/config
+Request body: 
+2025-01-31 16:37:15 | INFO | Request completed: GET http://158.160.63.21:8080/.git/config
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:16 | INFO | Incoming request: GET http://158.160.63.21:8080/.json
+Request body: 
+2025-01-31 16:37:16 | INFO | Request completed: GET http://158.160.63.21:8080/.json
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:16 | INFO | Incoming request: GET http://158.160.63.21:8080/login.action
+Request body: 
+2025-01-31 16:37:16 | INFO | Request completed: GET http://158.160.63.21:8080/login.action
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:16 | INFO | Incoming request: GET http://158.160.63.21:8080/s/lkx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+Request body: 
+2025-01-31 16:37:16 | INFO | Request completed: GET http://158.160.63.21:8080/s/lkx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:24 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 16:37:24 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:37:25 | INFO | Incoming request: GET http://158.160.63.21:8080/favicon.ico
+Request body: 
+2025-01-31 16:37:25 | INFO | Request completed: GET http://158.160.63.21:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 16:43:12 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 16:43:12 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.002s
+2025-01-31 16:43:36 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "Как поступить в ИТМО?"}
+2025-01-31 16:43:36 | INFO | Processing prediction request with id: 1
+2025-01-31 16:43:36 | ERROR | Internal error processing request 1: name 'httpx' is not defined
+2025-01-31 16:43:36 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 0.004s
+2025-01-31 16:50:52 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "Как поступить в ИТМО?"}
+2025-01-31 16:50:52 | INFO | Processing prediction request with id: 1
+2025-01-31 16:50:52 | ERROR | Internal error processing request 1: name 'httpx' is not defined
+2025-01-31 16:50:52 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 0.004s
+2025-01-31 16:55:50 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "Как поступить в ИТМО?"}
+2025-01-31 16:55:50 | INFO | Processing prediction request with id: 1
+2025-01-31 16:55:50 | ERROR | Internal error processing request 1: name 'httpx' is not defined
+2025-01-31 16:55:50 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 0.004s
+2025-01-31 17:03:06 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "Как поступить в ИТМО?"}
+2025-01-31 17:03:06 | INFO | Processing prediction request with id: 1
+2025-01-31 17:03:17 | ERROR | Validation error for request 1: 1 validation error for PredictionResponse
+answer
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+2025-01-31 17:03:17 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 400
+Response body: {"detail":"1 validation error for PredictionResponse\nanswer\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/int_type"}
+Duration: 10.765s
+2025-01-31 17:25:08 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "Как поступить в ИТМО?"}
+2025-01-31 17:25:08 | INFO | Processing prediction request with id: 1
+2025-01-31 17:25:17 | INFO | Successfully processed request 1
+2025-01-31 17:25:17 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":null,"reasoning":"Ошибка обработки ответа модели: name 'json' is not defined","sources":[]}
+Duration: 9.451s
+2025-01-31 17:31:58 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "Как поступить в ИТМО?"}
+2025-01-31 17:31:58 | INFO | Processing prediction request with id: 1
+2025-01-31 17:32:09 | INFO | Successfully processed request 1
+2025-01-31 17:32:09 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":null,"reasoning":"Ошибка обработки ответа модели: Expecting value: line 1 column 1 (char 0)","sources":[]}
+Duration: 10.772s
+2025-01-31 17:43:51 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 17:43:51 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.002s
+2025-01-31 17:47:13 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 17:47:13 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 17:47:25 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 17:47:25 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 17:47:28 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 17:47:28 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 17:47:28 | INFO | Incoming request: GET http://158.160.63.21:8080/favicon.ico
+Request body: 
+2025-01-31 17:47:38 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 17:47:38 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.003s
+2025-01-31 17:47:38 | INFO | Incoming request: GET http://158.160.63.21:8080/favicon.ico
+Request body: 
+2025-01-31 17:56:58 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "Как поступить в ИТМО?"}
+2025-01-31 17:56:58 | INFO | Processing prediction request with id: 1
+2025-01-31 17:57:09 | INFO | Successfully processed request 1
+2025-01-31 17:57:09 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":null,"reasoning":"Для поступления в Университет ИТМО необходимо выполнить несколько шагов: 1) Выбрать интересующую образовательную программу на сайте университета. 2) Подготовить необходимые документы, включая результаты ЕГЭ (для граждан РФ) или эквивалентных экзаменов (для иностранных граждан). 3) Подать заявление на поступление через личный кабинет абитуриента на сайте университета в установленные сроки. 4) Участвовать в конкурсе на зачисление, который может включать дополнительные вступительные испытания в зависимости от выбранной программы. 5) После успешного прохождения конкурса и получения приглашения, предоставить оригиналы документов для зачисления. Рекомендуется регулярно проверять официальный сайт университета для получения актуальной информации о сроках и требованиях. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 11.521s
+2025-01-31 17:59:21 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 17:59:21 | INFO | Processing prediction request with id: 1
+2025-01-31 17:59:28 | INFO | Successfully processed request 1
+2025-01-31 17:59:28 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке специалистов. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 7.454s
+2025-01-31 18:00:13 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 18:00:13 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 18:03:30 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+    "id": 1
+}
+2025-01-31 18:03:30 | INFO | Processing prediction request with id: 1
+2025-01-31 18:03:38 | INFO | Successfully processed request 1
+2025-01-31 18:03:38 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Главный кампус Университета ИТМО находится в Санкт-Петербурге. Это один из ведущих вузов России, известный своими достижениями в области информационных технологий, оптики и фотоники. Университет имеет богатую историю и активно участвует в международных образовательных и научных проектах. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 8.032s
+2025-01-31 18:04:33 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:04:33 | INFO | Processing prediction request with id: 1
+2025-01-31 18:04:40 | INFO | Successfully processed request 1
+2025-01-31 18:04:40 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих университетов страны, которые имеют высокий потенциал для развития научных исследований и инноваций. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 7.492s
+2025-01-31 18:06:10 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:06:10 | INFO | Processing prediction request with id: 1
+2025-01-31 18:06:17 | INFO | Successfully processed request 1
+2025-01-31 18:06:17 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 7.528s
+2025-01-31 18:19:07 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:19:07 | INFO | Processing prediction request with id: 1
+2025-01-31 18:19:17 | INFO | Successfully processed request 1
+2025-01-31 18:19:17 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проведённого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке специалистов. Ответ сгенерирован моделью БЛЯТЬdeepseek.","sources":[]}
+Duration: 9.675s
+2025-01-31 18:19:54 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:19:54 | INFO | Processing prediction request with id: 1
+2025-01-31 18:20:02 | INFO | Successfully processed request 1
+2025-01-31 18:20:02 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих университетов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке кадров. Ответ сгенерирован моделью БЛЯТЬdeepseek.","sources":[]}
+Duration: 7.653s
+2025-01-31 18:38:27 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:38:27 | INFO | Processing prediction request with id: 1
+2025-01-31 18:38:56 | INFO | Successfully processed request 1
+2025-01-31 18:38:56 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это признание было получено благодаря высоким достижениям университета в области науки и образования, что способствовало его включению в программу развития национальных исследовательских университетов. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 28.634s
+2025-01-31 18:40:14 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:40:14 | INFO | Processing prediction request with id: 1
+2025-01-31 18:40:22 | INFO | Successfully processed request 1
+2025-01-31 18:40:22 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке специалистов. Ответ сгенерирован моделью 123123deepseek.","sources":[]}
+Duration: 7.812s
+2025-01-31 18:41:06 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 18:41:06 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 18:42:42 | INFO | Incoming request: GET http:///
+Request body: 
+2025-01-31 18:42:42 | INFO | Request completed: GET http:///
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 18:42:42 | INFO | Incoming request: GET http://158.160.63.21/
+Request body: 
+2025-01-31 18:42:42 | INFO | Request completed: GET http://158.160.63.21/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 18:42:43 | INFO | Incoming request: GET http://158.160.63.21:8080/cgi-bin/../../../../../../../../../etc/hosts
+Request body: 
+2025-01-31 18:42:43 | INFO | Request completed: GET http://158.160.63.21:8080/cgi-bin/../../../../../../../../../etc/hosts
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:43 | INFO | Incoming request: GET http://158.160.63.21:8080/.DS_Store
+Request body: 
+2025-01-31 18:42:43 | INFO | Request completed: GET http://158.160.63.21:8080/.DS_Store
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:43 | INFO | Incoming request: GET http://158.160.63.21:8080/server-status
+Request body: 
+2025-01-31 18:42:43 | INFO | Request completed: GET http://158.160.63.21:8080/server-status
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:43 | INFO | Incoming request: GET http://158.160.63.21:8080/info.php
+Request body: 
+2025-01-31 18:42:43 | INFO | Request completed: GET http://158.160.63.21:8080/info.php
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:44 | INFO | Incoming request: GET http://158.160.63.21:8080/.json
+Request body: 
+2025-01-31 18:42:44 | INFO | Request completed: GET http://158.160.63.21:8080/.json
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:44 | INFO | Incoming request: GET http://158.160.63.21:8080/login.action
+Request body: 
+2025-01-31 18:42:44 | INFO | Request completed: GET http://158.160.63.21:8080/login.action
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:44 | INFO | Incoming request: GET http://158.160.63.21:8080/s/lkx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+Request body: 
+2025-01-31 18:42:44 | INFO | Request completed: GET http://158.160.63.21:8080/s/lkx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:44 | INFO | Incoming request: GET http://158.160.63.21:8080/api/geojson?url=file:///etc/hosts
+Request body: 
+2025-01-31 18:42:44 | INFO | Request completed: GET http://158.160.63.21:8080/api/geojson?url=file:///etc/hosts
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:45 | INFO | Incoming request: GET http://158.160.63.21:8080/config.json
+Request body: 
+2025-01-31 18:42:45 | INFO | Request completed: GET http://158.160.63.21:8080/config.json
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:45 | INFO | Incoming request: GET http://158.160.63.21:8080/.env
+Request body: 
+2025-01-31 18:42:45 | INFO | Request completed: GET http://158.160.63.21:8080/.env
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:45 | INFO | Incoming request: GET http://158.160.63.21:8080/.git/config
+Request body: 
+2025-01-31 18:42:45 | INFO | Request completed: GET http://158.160.63.21:8080/.git/config
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:45 | INFO | Incoming request: GET http://158.160.63.21:8080/idx_config/
+Request body: 
+2025-01-31 18:42:45 | INFO | Request completed: GET http://158.160.63.21:8080/idx_config/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:42:46 | INFO | Incoming request: GET http://158.160.63.21:8080/telescope/requests
+Request body: 
+2025-01-31 18:42:46 | INFO | Request completed: GET http://158.160.63.21:8080/telescope/requests
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-31 18:43:07 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:43:07 | INFO | Processing prediction request with id: 1
+2025-01-31 18:43:16 | INFO | Successfully processed request 1
+2025-01-31 18:43:16 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих университетов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке кадров. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 9.089s
+2025-01-31 18:44:13 | INFO | Incoming request: GET http://192.168.48.2:8080/
+Request body: 
+2025-01-31 18:44:13 | INFO | Request completed: GET http://192.168.48.2:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 18:44:27 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:44:27 | INFO | Processing prediction request with id: 1
+2025-01-31 18:44:35 | ERROR | 111111111111111111 {"answer": 2, "reasoning": "Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, способных внести значительный вклад в развитие науки и технологий."}
+2025-01-31 18:44:35 | INFO | Successfully processed request 1
+2025-01-31 18:44:35 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, способных внести значительный вклад в развитие науки и технологий. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 7.306s
+2025-01-31 18:45:51 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+    "id": 1
+}
+2025-01-31 18:45:51 | INFO | Processing prediction request with id: 1
+2025-01-31 18:45:57 | ERROR | 111111111111111111 {
+  "answer": 2,
+  "reasoning": "Главный кампус Университета ИТМО находится в Санкт-Петербурге. Это один из ведущих вузов России, известный своими достижениями в области информационных технологий, оптики и фотоники."
+}
+2025-01-31 18:45:58 | INFO | Successfully processed request 1
+2025-01-31 18:45:58 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Главный кампус Университета ИТМО находится в Санкт-Петербурге. Это один из ведущих вузов России, известный своими достижениями в области информационных технологий, оптики и фотоники. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 6.656s
+2025-01-31 18:57:03 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:57:03 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:57:03 | INFO | Processing prediction request with id: 1
+2025-01-31 18:57:03 | INFO | Processing prediction request with id: 1
+2025-01-31 18:57:11 | INFO | 22222222: id=1 query='В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015'
+2025-01-31 18:57:20 | INFO | 22222222: id=1 query='В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015'
+2025-01-31 18:57:20 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 18:57:20 | INFO | Processing prediction request with id: 1
+2025-01-31 18:57:27 | INFO | 22222222: id=1 query='В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015'
+2025-01-31 18:57:27 | ERROR | Internal error processing request 1: 
+2025-01-31 18:57:27 | ERROR | Internal error processing request 1: 
+2025-01-31 18:57:27 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 23.748s
+2025-01-31 18:57:27 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 23.747s
+2025-01-31 18:57:27 | INFO | Successfully processed request 1
+2025-01-31 18:57:27 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке кадров. Ответ сгенерирован моделью deepseek.","sources":[]}
+Duration: 7.044s
+2025-01-31 18:58:53 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 18:58:53 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.002s
+2025-01-31 18:59:01 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 18:59:01 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 19:03:06 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:03:06 | INFO | Processing prediction request with id: 1
+2025-01-31 19:03:14 | ERROR | Internal error processing request 1: cannot unpack non-iterable NoneType object
+2025-01-31 19:03:14 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 7.477s
+2025-01-31 19:07:49 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 19:07:49 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 19:09:16 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:09:16 | INFO | Processing prediction request with id: 1
+2025-01-31 19:09:23 | ERROR | Internal error processing request 1: cannot unpack non-iterable NoneType object
+2025-01-31 19:09:23 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 6.917s
+2025-01-31 19:10:03 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:10:03 | INFO | Processing prediction request with id: 1
+2025-01-31 19:10:03 | ERROR | ффффффффффффффффффффффффффф: [{'role': 'system', 'content': '\n    Ты эксперт по Университету ИТМО. Отвечай на вопросы чётко и информативно.\n    Если есть варианты ответов, выбери номер (1-10) и объясни свой выбор в reasoning.\n    Если вариантов нет,то в answer запиши "null", но в reasoning дай развёрнутый ответ.\n\n    #### Пример ввода:\n    {\n        "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",\n    }\n\n    #### Пример вывода в формате JSON:\n    {\n        "answer": "2",\n        "reasoning": "Университет Итмо находится в Санкт-Петербург ....(пояснение)"\n    }\n    '}, {'role': 'user', 'content': '\n    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015\n    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }\n    '}]
+2025-01-31 19:10:10 | ERROR | Internal error processing request 1: cannot unpack non-iterable NoneType object
+2025-01-31 19:10:10 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 6.990s
+2025-01-31 19:11:40 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:11:40 | INFO | Processing prediction request with id: 1
+2025-01-31 19:11:40 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:11:48 | ERROR | Internal error processing request 1: cannot unpack non-iterable NoneType object
+2025-01-31 19:11:48 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 7.678s
+2025-01-31 19:12:55 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:12:55 | INFO | Processing prediction request with id: 1
+2025-01-31 19:12:55 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:13:02 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие достижения в научных исследованиях и образовательной деятельности."}
+2025-01-31 19:13:02 | ERROR | Internal error processing request 1: cannot unpack non-iterable NoneType object
+2025-01-31 19:13:02 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 6.975s
+2025-01-31 19:17:49 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:17:49 | INFO | Processing prediction request with id: 1
+2025-01-31 19:17:49 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:17:56 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование для развития научных исследований и инноваций."}
+2025-01-31 19:17:56 | INFO | Yandex API response received: 310 bytes
+2025-01-31 19:17:56 | INFO | Found 0 relevant links for query: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+2025-01-31 19:17:56 | ERROR | Internal error processing request 1: '>' not supported between instances of 'str' and 'int'
+2025-01-31 19:17:56 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 6.934s
+2025-01-31 19:21:17 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:21:17 | INFO | Processing prediction request with id: 1
+2025-01-31 19:21:17 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:21:25 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке специалистов."}
+2025-01-31 19:21:25 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке специалистов.'}
+2025-01-31 19:21:25 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые демонстрируют высокие результаты в научных исследованиях и подготовке специалистов.')
+2025-01-31 19:21:25 | INFO | Yandex API response received: 311 bytes
+2025-01-31 19:21:25 | INFO | Found 0 relevant links for query: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+2025-01-31 19:21:25 | ERROR | Internal error processing request 1: '>' not supported between instances of 'str' and 'int'
+2025-01-31 19:21:25 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 7.423s
+2025-01-31 19:21:47 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:21:47 | INFO | Processing prediction request with id: 1
+2025-01-31 19:21:47 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:21:53 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками."}
+2025-01-31 19:21:53 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.'}
+2025-01-31 19:21:53 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.')
+2025-01-31 19:21:53 | INFO | Yandex API response received: 311 bytes
+2025-01-31 19:21:53 | INFO | Found 0 relevant links for query: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+2025-01-31 19:21:53 | ERROR | Internal error processing request 1: '>' not supported between instances of 'str' and 'int'
+2025-01-31 19:21:53 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 500
+Response body: {"detail":"Internal server error"}
+Duration: 6.782s
+2025-01-31 19:26:05 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:26:05 | INFO | Processing prediction request with id: 1
+2025-01-31 19:26:05 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:26:12 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками."}
+2025-01-31 19:26:12 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.'}
+2025-01-31 19:26:12 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.')
+2025-01-31 19:26:12 | INFO | Yandex API response received: 311 bytes
+2025-01-31 19:26:12 | INFO | Found 0 relevant links for query: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+2025-01-31 19:26:12 | INFO | Successfully processed request 1
+2025-01-31 19:26:12 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.","sources":[]}
+Duration: 7.227s
+2025-01-31 19:27:19 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:27:19 | INFO | Processing prediction request with id: 1
+2025-01-31 19:27:19 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:27:28 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками."}
+2025-01-31 19:27:28 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.'}
+2025-01-31 19:27:28 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.')
+2025-01-31 19:27:28 | INFO | Yandex API response received: 309 bytes
+2025-01-31 19:27:28 | INFO | Found 0 relevant links for query: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+2025-01-31 19:27:28 | INFO | Successfully processed request 1
+2025-01-31 19:27:28 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.","sources":[]}
+Duration: 8.604s
+2025-01-31 19:28:54 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 19:28:54 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 19:33:13 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:33:13 | INFO | Processing prediction request with id: 1
+2025-01-31 19:33:13 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:33:21 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих исследовательских проектов и инфраструктуры."}
+2025-01-31 19:33:21 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих исследовательских проектов и инфраструктуры.'}
+2025-01-31 19:33:21 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих исследовательских проектов и инфраструктуры.')
+2025-01-31 19:33:22 | INFO | Successfully processed request 1
+2025-01-31 19:33:22 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих исследовательских проектов и инфраструктуры.","sources":["https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://museum.itmo.ru/page/128/","https://itmo.ru/ru/page/174/programma_razvitiya_nacionalnogo_issledovatelskogo_universiteta_programma_razvitiya_niu_itmo.htm"]}
+Duration: 8.122s
+2025-01-31 19:41:32 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:41:32 | INFO | Processing prediction request with id: 1
+2025-01-31 19:41:32 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:41:38 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала и инновационной деятельности в высших учебных заведениях страны."}
+2025-01-31 19:41:38 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала и инновационной деятельности в высших учебных заведениях страны.'}
+2025-01-31 19:41:38 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала и инновационной деятельности в высших учебных заведениях страны.')
+2025-01-31 19:41:39 | INFO | Successfully processed request 1
+2025-01-31 19:41:39 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала и инновационной деятельности в высших учебных заведениях страны.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.464s
+2025-01-31 19:42:18 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:42:18 | INFO | Processing prediction request with id: 1
+2025-01-31 19:42:18 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:42:26 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками."}
+2025-01-31 19:42:26 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.'}
+2025-01-31 19:42:26 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.')
+2025-01-31 19:42:26 | INFO | Successfully processed request 1
+2025-01-31 19:42:26 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 7.774s
+2025-01-31 19:54:14 | INFO | Incoming request: GET http://127.0.0.1/
+Request body: 
+2025-01-31 19:54:14 | INFO | Request completed: GET http://127.0.0.1/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 19:55:10 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 19:55:10 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 19:56:48 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:56:48 | INFO | Processing prediction request with id: 1
+2025-01-31 19:56:48 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:56:55 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений."}
+2025-01-31 19:56:55 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений.'}
+2025-01-31 19:56:55 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений.')
+2025-01-31 19:56:55 | INFO | йцуйцуйцуйцуйцуйцуцй: []
+2025-01-31 19:56:55 | INFO | Successfully processed request 1
+2025-01-31 19:56:55 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений.","sources":[]}
+Duration: 6.845s
+2025-01-31 19:59:30 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 19:59:30 | INFO | Processing prediction request with id: 1
+2025-01-31 19:59:30 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 19:59:37 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений."}
+2025-01-31 19:59:37 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений.'}
+2025-01-31 19:59:37 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений.')
+2025-01-31 19:59:37 | INFO | sources: []
+2025-01-31 19:59:37 | INFO | Successfully processed request 1
+2025-01-31 19:59:37 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных направлений.","sources":[]}
+Duration: 6.470s
+2025-01-31 20:01:48 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:01:48 | INFO | Processing prediction request with id: 1
+2025-01-31 20:01:48 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:01:55 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками."}
+2025-01-31 20:01:55 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.'}
+2025-01-31 20:01:55 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.')
+2025-01-31 20:01:56 | INFO | sources: []
+2025-01-31 20:01:56 | INFO | Successfully processed request 1
+2025-01-31 20:01:56 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.","sources":[]}
+Duration: 7.234s
+2025-01-31 20:03:55 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:03:55 | INFO | Processing prediction request with id: 1
+2025-01-31 20:03:55 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:04:02 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы, направленной на повышение конкурентоспособности российских вузов на международной арене."}
+2025-01-31 20:04:02 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы, направленной на повышение конкурентоспособности российских вузов на международной арене.'}
+2025-01-31 20:04:02 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы, направленной на повышение конкурентоспособности российских вузов на международной арене.')
+2025-01-31 20:04:02 | ERROR | root: <Element 'yandexsearch' at 0x7b6d6f2ae9a0>
+2025-01-31 20:04:02 | INFO | Successfully processed request 1
+2025-01-31 20:04:02 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы, направленной на повышение конкурентоспособности российских вузов на международной арене.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 7.112s
+2025-01-31 20:05:11 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:05:11 | INFO | Processing prediction request with id: 1
+2025-01-31 20:05:11 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:05:18 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательского потенциала высших учебных заведений страны, что позволило университету укрепить свои позиции в области науки и образования."}
+2025-01-31 20:05:18 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательского потенциала высших учебных заведений страны, что позволило университету укрепить свои позиции в области науки и образования.'}
+2025-01-31 20:05:18 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательского потенциала высших учебных заведений страны, что позволило университету укрепить свои позиции в области науки и образования.')
+2025-01-31 20:05:19 | ERROR | root: <Element 'yandexsearch' at 0x73774e143590>
+2025-01-31 20:05:19 | ERROR | Validation error for request 1: 3 validation errors for PredictionResponse
+sources.0
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value='Статус', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/url_parsing
+sources.1
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value='В 2012', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/url_parsing
+sources.2
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value='«', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/url_parsing
+2025-01-31 20:05:19 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 400
+Response body: {"detail":"3 validation errors for PredictionResponse\nsources.0\n  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value='Статус', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.10/v/url_parsing\nsources.1\n  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value='В 2012', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.10/v/url_parsing\nsources.2\n  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value='«', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.10/v/url_parsing"}
+Duration: 7.906s
+2025-01-31 20:08:11 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:08:11 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:08:11 | INFO | Processing prediction request with id: 1
+2025-01-31 20:08:11 | INFO | Processing prediction request with id: 1
+2025-01-31 20:08:11 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:08:18 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих университетов, способных конкурировать на международной арене."}
+2025-01-31 20:08:18 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих университетов, способных конкурировать на международной арене.'}
+2025-01-31 20:08:18 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:08:24 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских вузов на международной арене."}
+2025-01-31 20:08:24 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских вузов на международной арене.'}
+2025-01-31 20:08:24 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:08:24 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих университетов, способных конкурировать на международной арене.')
+2025-01-31 20:08:24 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских вузов на международной арене.')
+2025-01-31 20:08:24 | INFO | Processing prediction request with id: 1
+2025-01-31 20:08:24 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:08:31 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками."}
+2025-01-31 20:08:31 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.'}
+2025-01-31 20:08:31 | ERROR | Unexpected error: 
+2025-01-31 20:08:31 | INFO | Successfully processed request 1
+2025-01-31 20:08:31 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.')
+2025-01-31 20:08:31 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих университетов, способных конкурировать на международной арене.","sources":[]}
+Duration: 20.319s
+2025-01-31 20:08:32 | ERROR | root: <Element 'yandexsearch' at 0x7d8c21c4f130>
+2025-01-31 20:08:32 | INFO | Successfully processed request 1
+2025-01-31 20:08:32 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 8.003s
+2025-01-31 20:08:32 | ERROR | root: <Element 'yandexsearch' at 0x7d8c21cec900>
+2025-01-31 20:08:32 | INFO | Successfully processed request 1
+2025-01-31 20:08:32 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских вузов на международной арене.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 20.720s
+2025-01-31 20:15:05 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:15:05 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:15:05 | INFO | Processing prediction request with id: 1
+2025-01-31 20:15:05 | INFO | Processing prediction request with id: 1
+2025-01-31 20:15:05 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:15:12 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательского потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов."}
+2025-01-31 20:15:12 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательского потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов.'}
+2025-01-31 20:15:12 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:15:18 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих вузов, способных конкурировать на международном уровне."}
+2025-01-31 20:15:18 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих вузов, способных конкурировать на международном уровне.'}
+2025-01-31 20:15:18 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательского потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов.')
+2025-01-31 20:15:18 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих вузов, способных конкурировать на международном уровне.')
+2025-01-31 20:15:19 | ERROR | root: Статус
+2025-01-31 20:15:19 | ERROR | root: В 2012
+2025-01-31 20:15:19 | ERROR | root: «
+2025-01-31 20:15:19 | ERROR | root: В
+2025-01-31 20:15:19 | ERROR | root: В
+2025-01-31 20:15:19 | INFO | Successfully processed request 1
+2025-01-31 20:15:19 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы развития высшего образования и науки в стране, направленной на поддержку ведущих вузов, способных конкурировать на международном уровне.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 13.606s
+2025-01-31 20:15:19 | ERROR | root: Статус
+2025-01-31 20:15:19 | ERROR | root: В 2012
+2025-01-31 20:15:19 | ERROR | root: «
+2025-01-31 20:15:19 | ERROR | root: В
+2025-01-31 20:15:19 | INFO | Successfully processed request 1
+2025-01-31 20:15:19 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательского потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 13.613s
+2025-01-31 20:15:26 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:15:26 | INFO | Processing prediction request with id: 1
+2025-01-31 20:15:26 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:15:33 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для проведения передовых исследований и разработок."}
+2025-01-31 20:15:33 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для проведения передовых исследований и разработок.'}
+2025-01-31 20:15:33 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для проведения передовых исследований и разработок.')
+2025-01-31 20:15:33 | ERROR | root: Статус
+2025-01-31 20:15:33 | ERROR | root: В 2012
+2025-01-31 20:15:33 | ERROR | root: «
+2025-01-31 20:15:33 | ERROR | root: В
+2025-01-31 20:15:33 | ERROR | root: В
+2025-01-31 20:15:33 | INFO | Successfully processed request 1
+2025-01-31 20:15:33 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что позволило университету получить дополнительное финансирование и поддержку для проведения передовых исследований и разработок.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.965s
+2025-01-31 20:17:12 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:17:12 | INFO | Processing prediction request with id: 1
+2025-01-31 20:17:12 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:17:19 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов."}
+2025-01-31 20:17:19 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов.'}
+2025-01-31 20:17:19 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов.')
+2025-01-31 20:17:20 | ERROR | root: Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.
+2025-01-31 20:17:20 | ERROR | root: В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.
+2025-01-31 20:17:20 | ERROR | root: Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...
+2025-01-31 20:17:20 | INFO | Successfully processed request 1
+2025-01-31 20:17:20 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научно-исследовательской деятельности в высших учебных заведениях страны, что позволило университету получить дополнительное финансирование и поддержку для развития своих научных и образовательных проектов.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 7.435s
+2025-01-31 20:19:28 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:19:28 | INFO | Processing prediction request with id: 1
+2025-01-31 20:19:28 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:19:34 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров."}
+2025-01-31 20:19:34 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров.'}
+2025-01-31 20:19:34 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров.')
+2025-01-31 20:19:35 | INFO | text: ['Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.', 'В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.', 'Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...']
+2025-01-31 20:19:35 | INFO | Successfully processed request 1
+2025-01-31 20:19:35 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.379s
+2025-01-31 20:27:48 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 20:27:48 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.001s
+2025-01-31 20:29:25 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:29:25 | INFO | Processing prediction request with id: 1
+2025-01-31 20:29:26 | INFO | text: ['Статус', 'В 2012', '«']
+2025-01-31 20:29:26 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Контекст: Статус
+В 2012
+«
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:29:33 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками."}
+2025-01-31 20:29:33 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.'}
+2025-01-31 20:29:33 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.')
+2025-01-31 20:29:33 | INFO | Successfully processed request 1
+2025-01-31 20:29:33 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, с целью поддержки ведущих вузов страны, которые занимаются передовыми научными исследованиями и разработками.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 7.178s
+2025-01-31 20:30:48 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:30:48 | INFO | Processing prediction request with id: 1
+2025-01-31 20:30:48 | INFO | text: ['Статус ', 'В 2012 ', '«']
+2025-01-31 20:30:48 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Контекст: Статус 
+В 2012 
+«
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:30:54 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета."}
+2025-01-31 20:30:54 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета.'}
+2025-01-31 20:30:54 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета.')
+2025-01-31 20:30:54 | INFO | Successfully processed request 1
+2025-01-31 20:30:54 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.512s
+2025-01-31 20:32:27 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:32:27 | INFO | Processing prediction request with id: 1
+2025-01-31 20:32:27 | INFO | text: ['Статус ', 'В 2012 ', '«']
+2025-01-31 20:32:27 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Контекст: Статус 
+В 2012 
+«
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:32:33 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета."}
+2025-01-31 20:32:33 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета.'}
+2025-01-31 20:32:33 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета.')
+2025-01-31 20:32:33 | INFO | Successfully processed request 1
+2025-01-31 20:32:33 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках конкурса, проводимого Министерством образования и науки Российской Федерации, что подчеркивает высокий уровень научных исследований и образовательной деятельности университета.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.547s
+2025-01-31 20:33:39 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:33:39 | INFO | Processing prediction request with id: 1
+2025-01-31 20:33:40 | INFO | 1111111text: ['Статус ', 'В 2012 ', '«']
+2025-01-31 20:33:40 | INFO | 1111111text: ['Статус ', 'В 2012 ', '«']
+2025-01-31 20:33:40 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Контекст: Статус 
+В 2012 
+«
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:33:47 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках программы поддержки ведущих университетов страны, что позволило Университету ИТМО укрепить свои позиции в научно-исследовательской деятельности и образовании."}
+2025-01-31 20:33:47 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках программы поддержки ведущих университетов страны, что позволило Университету ИТМО укрепить свои позиции в научно-исследовательской деятельности и образовании.'}
+2025-01-31 20:33:47 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках программы поддержки ведущих университетов страны, что позволило Университету ИТМО укрепить свои позиции в научно-исследовательской деятельности и образовании.')
+2025-01-31 20:33:47 | INFO | Successfully processed request 1
+2025-01-31 20:33:47 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Этот статус был присвоен в рамках программы поддержки ведущих университетов страны, что позволило Университету ИТМО укрепить свои позиции в научно-исследовательской деятельности и образовании.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 7.338s
+2025-01-31 20:34:48 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:34:48 | INFO | Processing prediction request with id: 1
+2025-01-31 20:34:49 | INFO | 1111111text: ['Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.', 'В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.', 'Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...']
+2025-01-31 20:34:49 | INFO | 1111111text: ['Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.', 'В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.', 'Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...']
+2025-01-31 20:34:49 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Контекст: Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.
+В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.
+Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:34:55 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается контекстом, где указано, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета."}
+2025-01-31 20:34:55 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается контекстом, где указано, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.'}
+2025-01-31 20:34:55 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается контекстом, где указано, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.')
+2025-01-31 20:34:55 | INFO | Successfully processed request 1
+2025-01-31 20:34:55 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается контекстом, где указано, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.716s
+2025-01-31 20:35:39 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:35:39 | INFO | Processing prediction request with id: 1
+2025-01-31 20:35:40 | INFO | 1111111text: ['Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.', 'В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.', 'Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...']
+2025-01-31 20:35:40 | INFO | 1111111text: Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.
+В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.
+Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...
+2025-01-31 20:35:40 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Контекст: Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге.
+В 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. А в 2013 году он стал участником Проекта 5-100 ― программы повышения конкурентоспособности российских университетов среди ведущих мировых научно-образовательных центров. Это дало вузу мощный импульс к дальнейшему развитию не только в тех областях, где ИТМО традиционно силен, но и в новых, в том числе междисциплинарных, направлениях. Все эти преобразования находили отражение в названии. В 2003 году вуз получил наименование Санкт-Петербургский государственный университет информационных технологий, механики и оптики. С 2019 года аббревиатура в названии вуза не расшифровывается: теперь это Национальный исследовательский университет ИТМО (кратко ― Университет ИТМО либо ИТМО). УНИВЕРСИТЕТ ИТМО СЕГОДНЯ.
+Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:35:47 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Согласно предоставленному контексту, Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается информацией о том, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета."}
+2025-01-31 20:35:47 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Согласно предоставленному контексту, Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается информацией о том, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.'}
+2025-01-31 20:35:47 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Согласно предоставленному контексту, Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается информацией о том, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.')
+2025-01-31 20:35:47 | INFO | Successfully processed request 1
+2025-01-31 20:35:47 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Согласно предоставленному контексту, Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается информацией о том, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 7.237s
+2025-01-31 20:40:24 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:40:24 | INFO | Processing prediction request with id: 1
+2025-01-31 20:40:25 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?
+1. 2007
+2. 2009
+3. 2011
+4. 2015
+    Контекст: Сборник составлен по материалам Всероссийского Фестиваля педагогических идей «Дошкольное образование: опыт и перспективы», состоявшегося 28 февраля 2024 года в Центральном округе. Миссия Фестиваля, как организационной формы, заключается в решение социально значимых проблем образования и...
+Олимпиады Университет ИТМО. Открытая олимпиада школьников. 4 декабря - 15 декабря 2024. 1-й отборочный онлайн этап. 5-11. классы. 1-3. уровень. Научно-техническая, физика, математика, информатика. 131 вуз без экзаменов. 105 вузов 100 баллов за ЕГЭ. 2 вуза 100 баллов за ДВИ. Всероссийская олимпиада школьников «Высшая проба». 20 августа - 5 ноября 2024.
+Каждый год тысячи молодых людей по всей России принимают решение о выборе вуза, который поможет им стать специалистами в области информационных технологий. И если ты ищешь место, которое действительно может сделать из тебя одного из лучших разработчиков, не пройдись мимо ИТМО. Этот университет не просто учебное заведение, а целый мир возможностей, который открывает двери для своих студентов в мир технологий и инноваций. ИТМО: лучшее место для будущих разработчиков. ИТМО: лучшее место для будущих разработчиков. ИТМО: лучшее место для будущих разработчиков. Почему ИТМО? Что же привлекает студентов в ИТМО? Возможно, это широкий выбор направлений, а может, это атмосфера творчества и жизни, которая царит в нем. Студенты делятся, что здесь они не просто учатся, но и живут настоящей студенческой жизнью, полной интересных мероприятий, конкурсов и проектов.
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:40:31 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что подчеркивает высокий уровень научных исследований и образовательных программ, предлагаемых университетом."}
+2025-01-31 20:40:31 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что подчеркивает высокий уровень научных исследований и образовательных программ, предлагаемых университетом.'}
+2025-01-31 20:40:31 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что подчеркивает высокий уровень научных исследований и образовательных программ, предлагаемых университетом.')
+2025-01-31 20:40:31 | INFO | Successfully processed request 1
+2025-01-31 20:40:31 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это решение было принято в рамках программы по развитию научного потенциала высших учебных заведений страны, что подчеркивает высокий уровень научных исследований и образовательных программ, предлагаемых университетом.","sources":["https://yarkiu.yartel.ru/assets/ped/dubinina-ea/publikacii/sbornik(zhigulevsk)-2024.pdf","https://spb.bir.ucheba.ru/for-abiturients/olympiads/uz-6213","https://dzen.ru/a/Z5zr2NZRjhRfXhUb"]}
+Duration: 6.988s
+2025-01-31 20:43:14 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 20:43:14 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.002s
+2025-01-31 20:43:26 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+    "id": 1
+}
+2025-01-31 20:43:26 | INFO | Processing prediction request with id: 1
+2025-01-31 20:43:26 | ERROR | ффффффффффффффффффффффффффф: 
+    Вопрос: В каком городе находится главный кампус Университета ИТМО?
+1. Москва
+2. Санкт-Петербург
+3. Екатеринбург
+4. Нижний Новгород
+    Контекст: Университет ИТМО (сокращенно от Университета информационных технологий, механики и оптики; русский: Университет ИТМО) - государственный университет в Санкт-Петербурге, один из национальных исследовательских университетов России. Университет ИТМО является одним из 15 российских университетов...
+Университет ИТМО (в советское время — ЛИТМО, Ленинградский институт точной механики и оптики) — российское федеральное государственное автономное учебное заведение высшего и послевузовского образования, с 2009 года — национальный исследовательский университет (НИУ). Основан в 1900 году в Санкт-Петербурге. Приоритетные направления вуза — информационные технологии, искусственный интеллект, фотоника, робототехника, квантовые коммуникации, трансляционная медицина, науки о жизни (Life Sciences), научная коммуникация. Команда ИТМО по спортивному программированию — единственный в мире семикратный чемпион крупнейшей международной студенческой олимпиады ICPC. Вуз входит в топ-5 российских вузов по качеству бюджетного приёма, один из лидеров по уровню зарплат IT-выпускников. Лидер федеральных инициатив развития конкурентоспособности российских вузов — «Проекта 5—100» (2013—2020) и «Приоритет 2030» (с 2021 года).
+Университет ИТМО, институт холода и биотехнологий, факультет заочного обучения (ул. Ломоносова, 9, Центральный район, Санкт-Петербург), инфраструктура образования в Санкт‑Петербурге. Университет ИТМО, институт холода и биотехнологий, факультет заочного обучения. Рейтинг 4,2. 77 оценок. Инфраструктура образования. ул. Ломоносова, 9, Центральный район, Санкт-Петербург. Фото. Санкт-Петербургский национальный исследовательский университет ИТМО, факультет технологического менеджмента и инноваций (ул. Чайковского, 11/2, Санкт-Петербург), инженерная инфраструктура в Санкт‑Петербурге. Санкт-Петербургский национальный исследовательский университет ИТМО, факультет технологического менеджмента и инноваций.
+    Ответ в формате JSON: { "answer": номер или null, "reasoning": "текст" }
+    
+2025-01-31 20:43:33 | ERROR | ффффффффффффффффффффффффффф: {"answer":"2","reasoning":"Главный кампус Университета ИТМО находится в Санкт-Петербурге. Это подтверждается контекстом, в котором указано, что университет был основан в 1900 году в Санкт-Петербурге и является одним из национальных исследовательских университетов России. Также в контексте упоминаются адреса различных факультетов и институтов университета, все они расположены в Санкт-Петербурге."}
+2025-01-31 20:43:33 | INFO | dddddddddddddddddddddddddddddddddddd: {'answer': '2', 'reasoning': 'Главный кампус Университета ИТМО находится в Санкт-Петербурге. Это подтверждается контекстом, в котором указано, что университет был основан в 1900 году в Санкт-Петербурге и является одним из национальных исследовательских университетов России. Также в контексте упоминаются адреса различных факультетов и институтов университета, все они расположены в Санкт-Петербурге.'}
+2025-01-31 20:43:33 | INFO | aaaaaaaaaaaaaaaaaaa: ('2', 'Главный кампус Университета ИТМО находится в Санкт-Петербурге. Это подтверждается контекстом, в котором указано, что университет был основан в 1900 году в Санкт-Петербурге и является одним из национальных исследовательских университетов России. Также в контексте упоминаются адреса различных факультетов и институтов университета, все они расположены в Санкт-Петербурге.')
+2025-01-31 20:43:33 | INFO | Successfully processed request 1
+2025-01-31 20:43:33 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Главный кампус Университета ИТМО находится в Санкт-Петербурге. Это подтверждается контекстом, в котором указано, что университет был основан в 1900 году в Санкт-Петербурге и является одним из национальных исследовательских университетов России. Также в контексте упоминаются адреса различных факультетов и институтов университета, все они расположены в Санкт-Петербурге.","sources":["https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University","https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://yandex.ru/maps/org/natsionalny_issledovatelskiy_universitet_itmo/1536000555/"]}
+Duration: 7.650s
+2025-01-31 20:59:01 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:59:01 | INFO | Incoming request: GET http://158.160.63.21:8080/
+Request body: 
+2025-01-31 20:59:01 | INFO | Processing prediction request with id: 1
+2025-01-31 20:59:01 | INFO | Request completed: GET http://158.160.63.21:8080/
+Status: 200
+Response body: {"message":"Welcome to the API"}
+Duration: 0.003s
+2025-01-31 20:59:07 | INFO | Successfully processed request 1
+2025-01-31 20:59:07 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 20:59:07 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается контекстом, где указано, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.766s
+2025-01-31 20:59:07 | INFO | Processing prediction request with id: 1
+2025-01-31 20:59:15 | INFO | Successfully processed request 1
+2025-01-31 20:59:15 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Согласно предоставленному контексту, Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается информацией о том, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета.","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 7.158s
+2025-01-31 20:59:35 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+    "id": 1
+}
+2025-01-31 20:59:35 | INFO | Processing prediction request with id: 1
+2025-01-31 20:59:44 | INFO | Successfully processed request 1
+2025-01-31 20:59:44 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО, как указано в контексте, является государственным университетом в Санкт-Петербурге. Он был основан в 1900 году в этом городе и с тех пор является одним из ведущих учебных заведений России в области информационных технологий, механики и оптики. Главный кампус университета, таким образом, находится в Санкт-Петербурге, что делает вариант ответа '2. Санкт-Петербург' правильным.","sources":["https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University","https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://yandex.ru/maps/org/natsionalny_issledovatelskiy_universitet_itmo/1536000555/"]}
+Duration: 8.561s
+2025-01-31 21:03:01 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 21:03:01 | INFO | Processing prediction request with id: 1
+2025-01-31 21:03:08 | INFO | Successfully processed request 1
+2025-01-31 21:03:08 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается контекстом, где указано, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. |Deepseek","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.398s
+2025-01-31 21:03:28 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 21:03:28 | INFO | Processing prediction request with id: 1
+2025-01-31 21:03:34 | INFO | Successfully processed request 1
+2025-01-31 21:03:34 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?\n1. Москва\n2. Санкт-Петербург\n3. Екатеринбург\n4. Нижний Новгород",
+    "id": 1
+}
+2025-01-31 21:03:34 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается контекстом, где указано, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. |Deepseek","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.326s
+2025-01-31 21:03:34 | INFO | Processing prediction request with id: 1
+2025-01-31 21:03:43 | INFO | Successfully processed request 1
+2025-01-31 21:03:43 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Университет ИТМО находится в Санкт-Петербурге, что подтверждается как исторической справкой, так и официальным почтовым адресом университета. Университет был основан в 1900 году в Санкт-Петербурге и с тех пор продолжает свою деятельность в этом городе. Университет ИТМО является одним из ведущих образовательных учреждений России, специализирующихся на информационных технологиях, механике и оптике, и играет значительную роль в научной и образовательной жизни страны. |Deepseek","sources":["https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University","https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/89/1._osnovnye_svedeniya.htm"]}
+Duration: 8.601s
+2025-01-31 21:05:08 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?",
+    "id": 1
+}
+2025-01-31 21:05:08 | INFO | Processing prediction request with id: 1
+2025-01-31 21:05:16 | INFO | Successfully processed request 1
+2025-01-31 21:05:16 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Главный кампус Университета ИТМО находится в Санкт-Петербурге, что подтверждается почтовым адресом: Кронверкский пр., д.49, лит. А, Санкт-Петербург, Российская Федерация, 197101. Также, исторически университет был основан в Санкт-Петербурге в 1900 году и с тех пор продолжает свою деятельность в этом городе. |Deepseek","sources":["https://yandex.ru/images/search?text=%D0%92+%D0%BA%D0%B0%D0%BA%D0%BE%D0%BC+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5+%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BC%D0%BF%D1%83%D1%81+%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0+%D0%98%D0%A2%D0%9C%D0%9E%3F","https://itmo.ru/ru/page/89/1._osnovnye_svedeniya.htm","https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E"]}
+Duration: 8.360s
+2025-01-31 21:07:21 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?",
+    "id": 1
+}
+2025-01-31 21:07:21 | INFO | Processing prediction request with id: 1
+2025-01-31 21:07:28 | ERROR | Validation error for request 1: 1 validation error for PredictionResponse
+answer
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='null', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-01-31 21:07:28 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 400
+Response body: {"detail":"1 validation error for PredictionResponse\nanswer\n  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='null', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing"}
+Duration: 7.716s
+2025-01-31 21:12:45 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {"id": 1, "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?\n1. 2007\n2. 2009\n3. 2011\n4. 2015"}
+2025-01-31 21:12:45 | INFO | Processing prediction request with id: 1
+2025-01-31 21:12:52 | INFO | Successfully processed request 1
+2025-01-31 21:12:52 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Согласно предоставленному контексту, Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это подтверждается информацией о том, что в 2009 году ИТМО, одному из немногих российских вузов, был присвоен статус национального исследовательского университета. Ответ сгенерирован моделью deepseek. |Deepseek","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FITMO_University"]}
+Duration: 6.940s
+2025-01-31 21:13:13 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?",
+    "id": 1
+}
+2025-01-31 21:13:13 | INFO | Processing prediction request with id: 1
+2025-01-31 21:13:23 | INFO | Successfully processed request 1
+2025-01-31 21:13:23 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Главный кампус Университета ИТМО находится в Санкт-Петербурге, что подтверждается исторической справкой о его основании в 1900 году в этом городе, а также почтовым адресом, указанным в контексте: Кронверкский пр., д.49, лит. А, Санкт-Петербург, Российская Федерация, 197101. Ответ сгенерирован моделью deepseek. |Deepseek","sources":["https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://itmo.ru/ru/page/89/1._osnovnye_svedeniya.htm","https://archi.ru/russia/86786/letyaschii"]}
+Duration: 9.712s
+2025-01-31 21:14:27 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком городе находится главный кампус Университета ИТМО?",
+    "id": 1
+}
+2025-01-31 21:14:27 | INFO | Processing prediction request with id: 1
+2025-01-31 21:14:36 | INFO | Successfully processed request 1
+2025-01-31 21:14:36 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":2,"reasoning":"Главный кампус Университета ИТМО находится в Санкт-Петербурге, что подтверждается почтовым адресом: Университет ИТМО, Кронверкский пр., д.49, лит. А, Санкт-Петербург, Российская Федерация, 197101. Также, историческая справка указывает на основание университета в 1900 году в Санкт-Петербурге, что дополнительно подтверждает его расположение в этом городе. Ответ сгенерирован моделью deepseek. |Deepseek","sources":["https://itmo.ru/ru/page/89/1._osnovnye_svedeniya.htm","https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://archi.ru/russia/86786/letyaschii"]}
+Duration: 8.322s
+2025-01-31 21:15:30 | INFO | Incoming request: POST http://158.160.63.21:8080/api/request
+Request body: {
+    "query": "В каком году Университет ИТМО был включён в число Национальных исследовательских университетов России?",
+    "id": 1
+}
+2025-01-31 21:15:30 | INFO | Processing prediction request with id: 1
+2025-01-31 21:15:36 | INFO | Successfully processed request 1
+2025-01-31 21:15:36 | INFO | Request completed: POST http://158.160.63.21:8080/api/request
+Status: 200
+Response body: {"id":1,"answer":null,"reasoning":"Университет ИТМО был включён в число Национальных исследовательских университетов России в 2009 году. Это событие стало важной вехой в истории вуза, подчеркнув его значимость и вклад в развитие науки и образования в стране. Ответ сгенерирован моделью deepseek. |Deepseek","sources":["https://itmo.ru/ru/page/211/istoriya_universiteta_itmo.htm","https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E","https://ru.ruwiki.ru/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%98%D0%A2%D0%9C%D0%9E"]}
+Duration: 6.089s
